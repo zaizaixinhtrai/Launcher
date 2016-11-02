@@ -809,4 +809,5 @@ public class MainActivity extends Activity implements QueryInterface, KeyboardSc
     public int getFavIconsSize() {
         return favsIds.length;
     }
+    
 }
